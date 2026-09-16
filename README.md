@@ -1,15 +1,5 @@
-# Hi, I'm Eslam Abdelaal Mohamed 👋
-
-### Data Analyst \| Data Science Student \| AI & Data Enthusiast
-
-I'm a **Data Science student at Alexandria University** with a strong
-focus on **Data Analysis**, building practical skills in data
-preparation, exploratory analysis, statistics, visualization, reporting,
-and machine learning.
-
-I enjoy turning raw data into meaningful insights and building practical
-projects that connect **data, business, statistics, and technology**.
-
+# 💫 About Me:
+Data Analyst | Data Science Student | Python • SQL • Excel | Statistics & Machine Learning | Google Data Analytics Certified<br><br>I’m a Data Science student at Alexandria University with a growing focus on Data Analytics and turning data into meaningful insights.<br>Through academic projects, professional training, and continuous self-learning, I’m developing practical skills in data analysis, Python, SQL, statistics, data visualization, and machine learning.<br><br>I’m continuously building practical projects and improving my technical and analytical skills through hands-on learning.<br>I’m open to Data Analytics internships, training opportunities, and entry-level roles where I can learn, contribute, and grow
 ------------------------------------------------------------------------
 
 ## 🧰 Tech Stack
