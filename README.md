@@ -4,9 +4,6 @@ Data Analyst | Data Science Student | Python • SQL • Excel | Statistics & Ma
 I’m a Data Science student at Alexandria University with a growing focus on Data Analytics and turning data into meaningful insights.
 Through academic projects, professional training, and continuous self-learning, I’m developing practical skills in data analysis, Python, SQL, statistics, data visualization, and machine learning.I’m continuously building practical projects and improving my technical and analytical skills through hands-on learning. I’m open to Data Analytics internships, training opportunities, and entry-level roles where I can learn, contribute, and grow. 
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eslam%20Abdelaal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EslamAbdelaal/)[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslamamohamed530@gmail.com)
 ------------------------------------------------------------------------
 
 ## 🧰 Tech Stack
@@ -67,6 +64,7 @@ Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vis
 ------------------------------------------------------------------------
 
 ## 🤝 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eslam%20Abdelaal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EslamAbdelaal/)[![Gmail](https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eslamamohamed530@gmail.com)
 
 I'm interested in connecting with **Data Analysts, Data Scientists, Data
 Engineers, AI enthusiasts, students, and professionals** who are
